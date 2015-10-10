@@ -1,0 +1,21 @@
+{
+  "name": "coffeescript",
+  "version": "0.0.0",
+  "authors": [
+    "Hugo Chaume <contact@hugochaume.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4"
+  },
+  "devDependencies": {
+    "Snap.svg": "~0.4.1"
+  }
+}
